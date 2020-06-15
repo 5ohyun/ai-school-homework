@@ -3,7 +3,6 @@
 - 1주차 과제
 
 - 2주차 과제
-
 깃허브에서 보이지 않는 현상 : 
 https://nbviewer.jupyter.org/github/lee-sohyun-226/py_study/blob/master/%EC%9D%B4%EC%86%8C%ED%98%84_2%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1_%E1%84%80%E1%85%AA%E1%84%8C%E1%85%A6.ipynb
 
